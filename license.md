@@ -186,4 +186,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*RuneScape: Dragonwilds · Updated 2026-11-15 · Shared under the MIT License*
+*RuneScape: Dragonwilds · Updated 2026-11-20 · Shared under the MIT License*
